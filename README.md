@@ -9,7 +9,7 @@
 
 ### 배울 수 있는 것
 
-* xml 필요한 작성하기
+* 필요한 xml 작성하기
 * 리스너
   * onClickListener
   * onCheckedChangeListener
@@ -33,6 +33,7 @@
 * 기타
   * Spannable 사용
   * 다이알로그 (준비 중)
+  * custom view
 
 ### 부족한 점
 
